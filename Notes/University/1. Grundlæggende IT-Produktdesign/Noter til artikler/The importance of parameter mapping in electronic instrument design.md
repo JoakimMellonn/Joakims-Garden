@@ -1,0 +1,5 @@
+# The importance of parameter mapping in electronic instrument design - Noter
+Denne artikel handler om hvordan brugen af mapping i produktdesign, kan gøre brugeroplevelsen mere kreativ og expressiv.
+Mapping er sammenhængen med input og output, det kan blandt andet være en-til-en eller mange-til-en. En-til-en er når eksempelvis trykker på en knap og der så sker en ting. Mange-til-en kan være at man rykker på to sliders på samme tid og der så kommer en lyd.
+
+En form for mapping de i artiklen snakker om, er at bruge en kombination af fysiske sliders og musebevægelser, til at lave musik. Det de finder ud af er at når de tager brugerens fysiske bevægelse ind, så åbner det op for mere kreativitet fra brugerens side. Dog kan denne form for interaktion ikke bruges i visse situationer, eksempelvis som input til en computer, hvor der kræves præcise inputs.

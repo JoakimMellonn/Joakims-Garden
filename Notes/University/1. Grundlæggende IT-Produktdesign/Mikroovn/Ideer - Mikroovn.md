@@ -1,0 +1,12 @@
+# Ideer til mikroovnen
+- xy-diagram hvor man indstiller tid og effekt på to forskellige akser.
+- Drejeknap, hvor man indstiller tid ved at dreje på knappen og effekt ved at trykke, hvor jo hårdere man trykker jo mere effekt.
+- En flimsy pind man kan trække ud og op, ligesom xy-diagram.
+- En knap til begge del, første gang man trykker indstiller man tid, anden gang effekt.
+- Motionscykel, jo højere gear, jo højere effekt, tid = tid.
+- Pind man trækker ud for at indstille tid og trykker ind for at indstille effekt (lukumspind).
+- Snor man trækker ud, jo længere du trækker ud, jo længere tid, jo hårdere du joinker jo højere effekt.
+- Whack-a-mole, med forskellige tidsintervaller og effekt er hvor hårdt man slår.
+- Håndtag der kan bevæge sig for at indstille tid og hvor hårdt man smækker døren indstiller effekt.
+- Touchpad til indstilling af effekt og tid.
+- 

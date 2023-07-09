@@ -1,18 +1,23 @@
+---
+tags: neovim, programming
+---
 
-## What do I want from it?
+## Missing stuff
 
-- [ ] Full blown IDE
-	- [x] LSP setup
-	- [ ] Tabs, like in VS Code
-	- [x] File tree menu
-	- [ ] Debugger?
-	- [ ] Flutter development
-	- [ ] Python development
-		- [ ] Venv support
-- [x] Well organized config structure
-- [ ] Quality of life stuff
-	- [x] Surrounding braces control
-	- [ ] Moving through buffers with ctrl/shift hjkl
+- [x] Tabs
+	- [x] Moving through tabs with HL
+	- [x] Closing tabs with \<leader>c
+- [ ] Other keybinds
+	- [ ] Remove unused keybinds
+	- [ ] lsp
+		- [x] Code actions
+		- [ ] Rename symbol
+		- [ ] Show/search definitions
+- [ ] Git integration
+	- [x] Plugin
+	- [ ] Keybinds
+- [x] Folding code with ufo
+- [x] Lspkind for looking goooood.
 
 
 ## Plugins
@@ -28,7 +33,7 @@
 	- https://github.com/nvim-tree/nvim-web-devicons
 - [x] Nvim colorizer
 	- https://github.com/NvChad/nvim-colorizer.lua
-- [ ] LSP kind
+- [x] LSP kind
 	- https://github.com/onsails/lspkind.nvim
 - [x] Indent blankline
 	- https://github.com/lukas-reineke/indent-blankline.nvim
@@ -82,12 +87,12 @@
 	- https://github.com/stevearc/dressing.nvim
 - [x] Nvim notify?
 	- https://github.com/rcarriga/nvim-notify
-- [ ] Gitsigns nvim
+- [x] Gitsigns nvim
 	- https://github.com/lewis6991/gitsigns.nvim
 - [x] Better escape
 	- https://github.com/max397574/better-escape.nvim
-- [ ] Nvim ufo
+- [x] Nvim ufo
 	- https://github.com/kevinhwang91/nvim-ufo
-- [ ] Flutter tools 
+- [x] Flutter tools 
 	- https://github.com/akinsho/flutter-tools.nvim
 - [ ] 

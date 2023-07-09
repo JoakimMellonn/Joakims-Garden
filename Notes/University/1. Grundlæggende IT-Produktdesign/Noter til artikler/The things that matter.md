@@ -1,0 +1,2 @@
+# The things that matter
+Denne artikel handler primært om at man skal fokusere mere på at designe holdbare produkter. Produkter der kan repareres af brugeren, produkter som brugeren kan interegere med.

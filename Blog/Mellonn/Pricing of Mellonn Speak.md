@@ -1,0 +1,2 @@
+- Explain why the pricing structure is like it is (Apple and Google cut).
+	- Why do you get a better price when registering a credit card?

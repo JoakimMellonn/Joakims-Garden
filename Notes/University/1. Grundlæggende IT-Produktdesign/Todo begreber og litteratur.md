@@ -1,0 +1,72 @@
+## Begreber jeg mangler
+
+- [x] Aesthetic interaction, Tangible products eller parameter mapping.
+- [x] Coupling action-reaction, Tangible products eller parameter mapping.
+	- [x] Samme placering.
+	- [x] Samme retning.
+	- [x] Samme modalitet.
+	- [x] Samme tid.
+- [x] Thoughtless acts.
+	- [x] Reacting.
+	- [x] Adapting.
+	- [x] Conforming.
+	- [x] Signaling.
+- [x] Bodystorming.
+- [x] Low- vs high-fidelity prototypes.
+- [x] Covert/overt observations.
+- [x] Observatør deltager/deltager observatør/fulstændig observatør/fuldstændig deltager.
+- [x] Struktureret/semi-struktureret/ustruktureret interviews???
+- [x] Thinking through doing.
+- [x] Performance.
+- [x] Visibility.
+- [x] Risk.
+- [x] Thickness of practise.
+- [x] Skala.
+- [x] Implicit/explicit interactions.
+- [x] F-formations - Spatial patterns.
+- [x] Inherent-/augmented-/functional-feedback and forward.
+- [x] User experience.
+- [x] Holistisk perspektiv???
+- [x] Compositional/sensual/emotional/spatio-temporal experiences.
+- [x] 6 sense-making processes.
+	- [x] Anticipating.
+	- [x] Connecting.
+	- [x] Interpreting.
+	- [x] Reflecting.
+	- [x] Appropriating.
+	- [x] Recounting.
+- [x] 7th sense-making process.
+	- [x] Hvilken rolle kroppen spiller.
+- [x] Scenarier og storyboards.
+- [x] Faser.
+	- [x] Analyse fase.
+	- [x] Syntese fase.
+	- [x] Simuleringsfase.
+
+
+## Literatur
+
+- [x] Uge 2
+	- [ ] Tangible products 4
+	- [ ] Parameter mapping
+- [x] Uge 3
+	- [ ] The things that matter
+	- [ ] The design way
+- [x] Uge 4
+	- [ ] Design for experiencing 3
+	- [ ] Thoughtless acts
+- [x] Uge 5
+	- [ ] Thoughtful interaction design
+- [x] Uge 6
+	- [ ] Experience prototyping
+- [x] Uge 8
+	- [ ] Ethnographic field methods and their relation to design
+- [x] Uge 9
+	- [ ] How bodies matter 1
+- [x] Uge 10
+	- [ ] Thinking with sketches
+- [x] Uge 11
+	- [ ] Interaction frogger 2
+- [x] Uge 12
+	- [ ] Making sense of experience
+	- [ ] The value of storyboards in the product design process
