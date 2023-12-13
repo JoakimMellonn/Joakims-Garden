@@ -1,10 +1,8 @@
-# How is Mac?
 Yea... this is where I am right now. I've just gotten the MacBook Pro 14", with the M1 Pro, and so far it's absolutely a beast.
 This is just some notes, where I can express my feelings about the experience, so my family doesn't have to listen to me ramble.
 
-
 ## Build quality
-This shouldn't come as a surprise to anyone, but this thing is an absolute tank. It at least feels like it. It's extremely heavy for a 14" laptop, this isn't necessarily a bad thing, but it's a lot. 1.6 kg, is still 300g heavier than the Razer Blade Stealth I'm coming from, which I though was a hefty beast, this thing is another class.
+This shouldn't come as a surprise to anyone, but this thing is an absolute tank. It at least feels like it. It's extremely heavy for a 14" laptop, this isn't necessarily a bad thing, but it's a lot. 1.6 kg, is still 300g heavier than the Razer Blade Stealth I'm coming from, which I thought was a hefty beast, this thing is another class.
 The build quality itself is very nice, with zero to none deck flex. But (again), this shouldn't come as a surprise, with Apple having perfected the aluminium chassis.
 
 ### Keyboard
